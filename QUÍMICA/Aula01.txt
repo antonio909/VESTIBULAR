@@ -1,12 +1,40 @@
-1. Materiais uso e propriedades
+O que é matéria?
+----------------
 
-1.1 Origem e ocorrência de materiais.
+Matéria é tudo que ocupa lugar no espaço e apresenta massa.
+Além dessas características, ela pode ser encontrada na natureza em três estados físicos: sólido, líquido e gasoso.
 
-O que é matéria
+Conceito de matéria
+-------------------
 
-Matéria é tudo o que ocupa lugar no espaço e apresenta massa. Além dessas caracterísiticas, ela pode ser encontrada na natureza em três estados físicos.
+A definição de "matéria" é dada por uma frase simples e abrangente: trata-se de tudo aquilo que ocupa lugar (o mesmo que volume) no espaço e apresenta peso (produto da massa pela 
+gravidade). Alguns exemplos de matéria: árvore, bactéria, vírus, ser humano, ar, água, mesa, veículo, etc.
 
-A definição de matéria é dada por uma frase simples e abrangente: trata-se de tudo aquilo que ocupa lugar (o mesmo que volume) no espaço e apresenta peso (produto da massa pela gravidade).
-Alguns exemplos de matéria: árvore, bactéria, ser humano, ar, água, mesa, veículo, etc.
+Poderia citar milhares de exemplos, já que a "matéria" é bem abrangente.
+Mas, será que existe algo que não seja matéria?
+Com certeza, sim, porém, nesse caso, é denominado de energia, como os seguintes exemplos:
+
+. Luz: denominada de energia luminosa;
+
+. Pressão: denominada de energia pressórica;
+
+. Som: denominado de energia sonora;
+
+. Fogo: associação das energias térmica e luminosa;
+
+. Eletricidade: denominada de energia elétrica;
+
+. Calor: denominado de energia térmica;
+
+. Raio-X: uma forma de energia eletromagnética;
+
+A "energia" pode ser definida como uma "força" capaz de produzir ação e movimento.
+Assim, é muito simples diferenciar a matéria de energia, já que uma ocupa espaço e possui massa, e a outra, não.
+
+Uma curiosidade importante sobre a "matéria" é que ela pode ser denominada de duas formas diferentes: "corpo" e "objeto".
+
+"Corpo": trata-se de uma parte da "matéria". Exemplos: fio de lã, caco de vidro, vento, tronco de uma árvore;
+
+"Objeto": trata-se de uma parte da "matéria" que apresenta uma utilização específica. Exemplos: camisa, ar, comprimido, caneta, cadeira.
 
 https://brasilescola.uol.com.br/o-que-e/quimica/o-que-e-materia.htm
