@@ -24,3 +24,17 @@ As grandezas chamadas derivadas são aquelas definidas a partir das grandezas fu
 por exemplo, da velocidade, que possui a sua unidade de medida derivadas das unidades de comprimento e
 tempo, como é o caso de m/s (lê-se metro por segundo), e da força, que possui como unidade o newton (N),
 derivado das unidades de comprimento, tempo e massa (1N = 1 Kg.m/s).
+
+Segundo a forma de caracterização, as grandezas são classificadas como escalares e vetoriais:
+
+. Grandezas escalares: São aquelas definidas apenas por um número seguido de uma unidade de medida.
+  Essas grandezas precisam apenas da informação do módulo (valor numérico) para serem completamente
+  caracterizadas. São os casos, por exemplo, do tempo, temperatura e massa.
+
+. Grandezas vetoriais: Para a completa caracterização de uma grandeza vetorial, são necessárias três
+  informações, módulo (valor numérico), direção e sentido. Como exemplo de grandezas vetoriais, podemos
+  citar a força, velocidade, aceleração etc. O vetor é o segmento de reta orientado que representa as
+  grandezas vetoriais.
+
+JúNIOR, Joab Silas da Silva. "O que é grandeza?"; Brasil Escola. 
+Disponível em: https://brasilescola.uol.com.br/o-que-e/fisica/o-que-e-grandeza.htm. Acesso em 05 de setembro de 2024.
