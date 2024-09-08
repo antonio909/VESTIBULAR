@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    
+    <title>Física - Mecânica - Movimento Retilíneo Uniforme</title>
+    
+  </head>
+  <body>
+    
+    <h1>Movimento Retilíneo Uniforme</h1>
+
+    <p>
+      Movimento Retilíneo Uniforme (MRU) é o 
+      movimento que ocorre com velocidade 
+      constante em uma trajetória reta. Desta forma, 
+      em intervalos de tempos iguais o móvel 
+      percorre a mesma distância.
+    </p>
+    <p>
+      Um exemplo é quando estamos 
+      viajando em uma estrada plana e reta e o 
+      velocímetro indica sempre a mesma 
+      velocidade.
+    </p>
+    <h2>Velocidade média</h2>
+    <p>
+      O valor da velocidade média é encontrado dividindo-se a variação do espaço pelo 
+      intervalo de tempo.
+    </p>
+    <p>
+      <img alt="Velocidade média" height="35" src="https://static.todamateria.com.br/upload/ve/lo/velocidademedia.jpg" width="70" >
+    </p>
+    
+  </body>
+</html>
