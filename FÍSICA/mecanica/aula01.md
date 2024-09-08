@@ -19,3 +19,4 @@ intervalo de tempo.
 ![image](https://github.com/user-attachments/assets/81982792-db9b-4b93-99fc-0f85cadef486)
 
 onde,
+^v^m: Velocidade média
