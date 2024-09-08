@@ -16,9 +16,6 @@ velocidade.
 O valor da velocidade média é encontrado dividindo-se a variação do espaço pelo 
 intervalo de tempo.
 
-![image](https://github.com/user-attachments/assets/27387fb9-70e1-4292-9018-13b165da4247) 
+![image](https://github.com/user-attachments/assets/81982792-db9b-4b93-99fc-0f85cadef486)
 
-onde, 
-vm: velocidade média
-Δs: variação do espaço
-t: intervalo de tempo
+onde,
